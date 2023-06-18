@@ -1,11 +1,11 @@
-About r-stargazer
-=================
+About r-stargazer-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stargazer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=stargazer
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-stargazer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Produces LaTeX code, HTML/CSS code and ASCII text for well-formatted tables that hold  regression analysis results from several models side-by-side, as well as summary statistics.
 
